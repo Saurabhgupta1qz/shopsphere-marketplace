@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere Multi-Vendor Marketplace",
+  "description": "An enterprise-grade, Amazon and Flipkart-inspired multi-vendor e-commerce platform with AI-powered hybrid product recommendations, comprehensive business verification systems (Aadhaar, PAN, GST), custom seller diagnostics, intelligent query routing via Gemini APIs, and a seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
